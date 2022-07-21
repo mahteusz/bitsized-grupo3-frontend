@@ -1,0 +1,6 @@
+query getPointsOrdersList {
+  pointsOrdersList {
+    clientId
+    points
+  }
+}

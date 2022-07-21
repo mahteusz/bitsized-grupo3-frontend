@@ -1,0 +1,6 @@
+query getPointsByClientId($clientId: String) {
+  pointsClientById(clientId: $clientId) {
+    clientId
+    points
+  }
+}

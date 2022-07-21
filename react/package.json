@@ -19,7 +19,8 @@
     "@vtex/test-tools": "^3.3.2",
     "@vtex/tsconfig": "^0.4.4",
     "apollo-cache-inmemory": "^1.6.5",
-    "bitsized.pointsrenderertest": "https://testmateus--bitsized.myvtex.com/_v/private/typings/linked/v1/bitsized.pointsrenderertest@0.0.0+build1658119080/public/@types/bitsized.pointsrenderertest",
+    "bitsized.grupo3-backend-app": "https://backendbitsized03--bitsized.myvtex.com/_v/private/typings/linked/v1/bitsized.grupo3-backend-app@0.0.1+build1658382692/public/@types/bitsized.grupo3-backend-app",
+    "bitsized.grupo3-frontend-app": "https://backendbitsized03--bitsized.myvtex.com/_v/private/typings/linked/v1/bitsized.grupo3-frontend-app@0.0.0+build1658385898/public/@types/bitsized.grupo3-frontend-app",
     "graphql": "^14.6.0",
     "typescript": "3.9.7",
     "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.132.4/public/@types/vtex.render-runtime"

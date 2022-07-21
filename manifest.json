@@ -1,6 +1,6 @@
 {
   "vendor": "bitsized",
-  "name": "grupo3-points-renderer",
+  "name": "grupo3-frontend-app",
   "version": "0.0.0",
   "title": "grupo3-points-renderer",
   "description": "Renderer de pontos do grupo 3 da bitsized",
@@ -10,10 +10,10 @@
     "docs": "0.x",
     "store": "0.x"
   },
-  "dependencies": {},
-  "registries": [
-    "smartcheckout"
-  ],
+  "dependencies": {
+    "bitsized.grupo3-backend-app": "0.x"
+  },
+  "registries": ["smartcheckout"],
   "policies": [],
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
